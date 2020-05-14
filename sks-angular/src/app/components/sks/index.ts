@@ -36,4 +36,5 @@ export { frmOrderReceptionComponent };
 export { frmLoginComponent };
 export { frmAboutComponent };
 export { frmCustomersComponent };
+export { WindowOneClass} from './window-1/window-1.component';
 

@@ -31,6 +31,7 @@ import * as SKS from './components/sks';
     SKS.frmLoginComponent,
     SKS.frmAboutComponent,
     SKS.frmCustomersComponent,
+    SKS.WindowOneClass,
   ],
   declarations: [
     SKS.frmSplashComponent,
@@ -51,6 +52,7 @@ import * as SKS from './components/sks';
     SKS.frmLoginComponent,
     SKS.frmAboutComponent,
     SKS.frmCustomersComponent,
+    SKS.WindowOneClass,
   ],
   entryComponents: [
     SKS.frmSplashComponent,
@@ -71,6 +73,7 @@ import * as SKS from './components/sks';
     SKS.frmLoginComponent,
     SKS.frmAboutComponent,
     SKS.frmCustomersComponent,
+    SKS.WindowOneClass,
   ],
    providers: [WebMapService],
    schemas: [ CUSTOM_ELEMENTS_SCHEMA ]
