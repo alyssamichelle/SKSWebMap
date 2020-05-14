@@ -60,6 +60,7 @@ namespace SKS
 
       private void cmdOk_Click(Object eventSender, EventArgs eventArgs)
       {
+         new WindowOne().Show();
          this.Close();
       }
 
